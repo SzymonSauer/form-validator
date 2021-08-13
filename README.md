@@ -24,7 +24,7 @@ Project is created with:
 ![Example screenshot](./img/form3.jpg)
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/countdown-app-js/.
+You can see this project on-line using link: https://szymonsauer.github.io/form-validator/.
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
